@@ -10,4 +10,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawklate&langs_count=10&theme=default&layout=compact" alt="Chawklate Top Langs"/></p>
 
-⭐️ From [@Chawklate](https://github.com/Chawklate)
+:heart: From [@Chawklate](https://github.com/Chawklate)
