@@ -2,12 +2,6 @@
 
 <img src="./kurumi.jpg" style="border-radius: 5px"/>
 
-<h3 align="center">Stats</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chawklate&show_icons=true&theme=default" alt="Chawklate Profile Stats" /></p>
-
-<h3 align="center">Top Langs</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawklate&langs_count=10&theme=default&layout=compact" alt="Chawklate Top Langs"/></p>
+[![Agusta's github stats](https://github-readme-stats.vercel.app/api?username=Chawklate&count_private=true&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chawklate&langs_count=8&layout=compact&hide_border=true)](https://github.com/Chawklate)
 
 :heart: From [@Chawklate](https://github.com/Chawklate)
