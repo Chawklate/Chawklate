@@ -1,3 +1,10 @@
 ## Hi ☆ ～('▽^人)
 
-![Chawklate's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=none&username=chawklate)
+<img src="./kurumi.jpg" />
+
+<div style="display: flex; justify-content: space-around;">
+    <div><img src="https://github-readme-stats.vercel.app/api?username=Chawklate&show_icons=true&theme=default" alt="AnhellO :: Profile Stats" /></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawklate&langs_count=10&theme=default&layout=compact" alt="AnhellO :: Top Langs" /></div>
+</div>
+
+⭐️ From [@Chawklate](https://github.com/Chawklate)
