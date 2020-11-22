@@ -6,4 +6,5 @@
 
 :heart: [@Chawklate](https://github.com/Chawklate)
 
-:framed_picture: From [@Keyyuui](https://twitter.com/keyyuui) 
+### Feel free to contact me!
+<img src="https://discord.c99.nl/widget/theme-3/700352855210590228.png" />
