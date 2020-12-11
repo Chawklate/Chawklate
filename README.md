@@ -5,6 +5,8 @@
 ### Pinned Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chawklate&repo=web&theme=dracula&hide_border=true&show_owner=true)](https://github.com/Chawklate/web)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chawklate&repo=web&theme=dracula&hide_border=true&show_owner=true)](https://github.com/Chawklate/web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chawklate&repo=web&theme=dracula&hide_border=true&show_owner=true)](https://github.com/Chawklate/web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chawklate&repo=web&theme=dracula&hide_border=true&show_owner=true)](https://github.com/Chawklate/web)
 
 
 ### Feel free to contact me!
