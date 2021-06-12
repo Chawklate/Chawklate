@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Agusta's github stats](https://github-readme-stats.vercel.app/api?username=agustacandi&count_private=true&show_icons=true&hide_border=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustacandi&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/Chawklate)
+[![Agusta's github stats](https://github-readme-stats.vercel.app/api?username=agustacandi&count_private=true&show_icons=true&hide_border=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustacandi&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/agustacandi)
 
 
 <!-- #### Get in touch
